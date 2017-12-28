@@ -42,6 +42,9 @@ body{
 	color:  #ea355a;
 	text-decoration: none;
 }
+.ba-form__link:hover {
+	text-decoration: underline;
+}
 .input {
 	margin-bottom: 15px;
 	width: 100%;
